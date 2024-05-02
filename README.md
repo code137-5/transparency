@@ -1,5 +1,5 @@
 # Code 137.5 (Transparency code review) 
-# 아트블록의 Transprency 코드리뷰 / from 한승균(Lewis)
+# ArtBlocks의 Transprency 코드리뷰 / 한승균(Lewis)
 
 This runs on Node with some dependencies. Download or clone the repo, navigate into the directory, and run npm install:
 
