@@ -1,9 +1,5 @@
-# Art Blocks Starter Template
-[![GitPOAPs](https://public-api.gitpoap.io/v1/repo/ArtBlocks/artblocks-starter-template/badge)](https://www.gitpoap.io/gh/ArtBlocks/artblocks-starter-template)
-
-***Note**: This tool is maintained by people of the Art Blocks community and is not affiliated with Art Blocks*
-
-## Quick Start:
+# Code 137.5 (Transparency code review) 
+# 아트블록의 Transprency 코드리뷰 / from 한승균(Lewis)
 
 This runs on Node with some dependencies. Download or clone the repo, navigate into the directory, and run npm install:
 
